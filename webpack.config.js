@@ -5,8 +5,8 @@ module.exports = {
   entry: './index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'react-ecosystem.js',
-    library: 'ReactEcosystem',
+    filename: 'react-in-browser.js',
+    library: 'ReactInBrowser',
     libraryTarget: 'umd',
     globalObject: 'this',
   },

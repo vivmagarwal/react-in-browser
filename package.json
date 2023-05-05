@@ -1,5 +1,5 @@
 {
-  "name": "react-ecosystem",
+  "name": "react-in-browser",
   "version": "1.0.0",
   "description": "A wrapper around common React packages",
   "main": "index.js",
@@ -20,5 +20,5 @@
   ],
   "author": "",
   "license": "ISC",
-  "repository": "https://github.com/vivmagarwal/react-ecosystem"
+  "repository": "https://github.com/vivmagarwal/react-in-browser"
 }
