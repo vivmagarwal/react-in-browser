@@ -3,13 +3,13 @@
 Intended to be used as a CDN in HTML file
 
 ```
- <script src="https://unpkg.com/react-in-browser@17.0.1/dist/react-in-browser.js"></script>
+ <script src="https://unpkg.com/react-in-browser@17.0.2/dist/react-in-browser.js"></script>
 ```
 It gives you all the commonly used React ecocsytem objects directly in your broswer. I created it for quick demoes & quick student activites in my live class.
 
 The version number corresponds to the React's major version number.
 
-Codepen Demo: https://codepen.io/drupalastic/pen/rNqpjwq?editors=0010
+Codepen Demo: https://codepen.io/drupalastic/pen/rNqpjwq?editors=0011
 
 ## Full Demo
 
